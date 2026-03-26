@@ -3,6 +3,7 @@ import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
 // import installNode from "../assets/portfolio/installNode.jpg"
 // import navbar from "../assets/portfolio/navbar.jpg"
 import reactParallax from "../assets/portfolio/blood.jpeg"
+import restaurant from "../assets/portfolio/Restaurant.PNG"
 // import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
 // import reactWeather from "../assets/portfolio/reactWeather.jpg"
 
@@ -18,8 +19,20 @@ const Portfolio = () => {
     {
       id:2,
       src:reactParallax,
-      demo:'https://github.com/iamsandhyamaharjan/blood-bank',
-      code:''
+      demo:'',
+      code:'https://github.com/iamsandhyamaharjan/blood-bank'
+    },
+    {
+      id:3,
+      src:restaurant,
+      demo:'https://dinespot.netlify.app/menu/29',
+      code:'https://github.com/iamsandhyamaharjan/DineSpot'
+    },
+     {
+      id:4,
+      src:restaurant,
+      demo:'https://dinespot.netlify.app/menu/29',
+      code:'https://github.com/iamsandhyamaharjan/DineSpot'
     },
    
   ]
