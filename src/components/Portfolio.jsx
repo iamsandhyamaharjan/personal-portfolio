@@ -1,10 +1,10 @@
-import React from 'react'
+// import React from 'react'
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
-import installNode from "../assets/portfolio/installNode.jpg"
-import navbar from "../assets/portfolio/navbar.jpg"
+// import installNode from "../assets/portfolio/installNode.jpg"
+// import navbar from "../assets/portfolio/navbar.jpg"
 import reactParallax from "../assets/portfolio/blood.jpeg"
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
-import reactWeather from "../assets/portfolio/reactWeather.jpg"
+// import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
+// import reactWeather from "../assets/portfolio/reactWeather.jpg"
 
 const Portfolio = () => {
 
