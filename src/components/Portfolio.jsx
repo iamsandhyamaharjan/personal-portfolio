@@ -25,7 +25,7 @@ const Portfolio = () => {
     {
       id:3,
       src:restaurant,
-      demo:'https://dinespot.netlify.app/menu/29',
+      demo:'https://dinespot.netlify.app',
       code:'https://github.com/iamsandhyamaharjan/DineSpot'
     },
 
