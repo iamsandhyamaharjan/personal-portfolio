@@ -7,7 +7,7 @@ const About = () => {
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
-        <p className='text-xl mt-20'>Student at Sagarmatha College of Science and Technology | Enthusiastic Web Developer | Actively Learning React and Django | Open to Opportunities</p><br />
+        <p className='text-xl mt-20'>Student at Patan Multiple Campus | Enthusiastic Web Developer | Actively Learning Next.js and Django | Open to Opportunities</p><br />
         <p text-xl>
           Hello! 👋 I'm Sandhya Maharjan, an entry-level web developer and a dedicated student, passionate about crafting exceptional online experiences. Currently juggling between work and studies, I thrive on the challenges of the ever-evolving tech landscape. Eager to learn, collaborate, and contribute to innovative web projects. Let's connect and explore the possibilities together!
         </p>
