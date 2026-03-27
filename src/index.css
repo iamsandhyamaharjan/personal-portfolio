@@ -10,3 +10,25 @@
     font-family: 'Raleway', sans-serif;
   }
 }
+
+/* Raindrops.css */
+
+.raindrop {
+  position: absolute;
+  top: -50px;
+  background: rgba(173, 216, 230, 0.8);
+  border-radius: 50%;
+  animation-name: fall, fade;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes fall {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(100vh); }
+}
+
+@keyframes fade {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}

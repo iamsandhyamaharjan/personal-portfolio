@@ -3,6 +3,7 @@ import HeroImage from "../assets/sandhya.PNG";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
+
 const Home = () => {
   return (
     <div name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800  text-white m-100">
@@ -25,6 +26,7 @@ const Home = () => {
           </div>
         </div>
         <div>
+
           <img src={HeroImage} alt="my profile" className="rounded-2xl mx-auto w-2/100 md:w-[50%]"/>
         </div>
       </div>
